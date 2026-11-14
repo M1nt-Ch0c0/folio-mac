@@ -1,4 +1,6 @@
-# PhotoPainter Console
+<img src="brand/folio.png" alt="folio" width="280">
+
+# folio-mac
 
 PhotoPainter Console 是一个 macOS 原生应用，用图形界面操作 PhotoPainter 相框：查看设备状态、管理相框上的应用、手动推图、配对、Wi-Fi 配置和 USB 维护。它是 [ai-quota-frame](https://github.com/M1nt-Ch0c0/ai-quota-frame) 后台的前端，本身不连接蓝牙。
 
